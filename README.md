@@ -11,7 +11,7 @@ Follow these steps to set up the project:
 2. Navigate to the project directory:
 
    ```bash
-   cd property-rental
+   cd estoken
    ```
 
 3. Install the dependencies:
